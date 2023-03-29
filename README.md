@@ -11,7 +11,7 @@ Team Members Name
 CodeAssist is an web base app on the web 4.0 model that has majorly 4 target audience i.e. Students , Faculty , Institutions and IT Industry Professionals
     
      Students use ou App for the sake of enhancing their coding skills or to learn to code from scratch
-     Institutions use our App to 
+     Institutions use our App to make students familiar with the LMV platfrom and teach coding in an interactive manner
      Faculty members and teachers use our App to enhance their old teaching styles also conduct teaching free tests
      It Industry professionals use CodeAssist for two main reasons 
         Firstly for conducting malpractice free coding rounds 
